@@ -20,7 +20,7 @@ viewer
 
     // Load a model
     const model =
-      "aka.glb";
+      "/aka.glb";
     viewer.load(model);
     console.log(viewer);
   });
