@@ -15,7 +15,7 @@ viewer
     viewer.renderManager.displayCanvasScaling = window.devicePixelRatio;
 
     const loadingScreen = viewer.getPlugin(LoadingScreenPlugin);
-    loadingScreen.loadingTextHeader = "Loading Custom 3D Experience";
+    loadingScreen.loadingTextHeader = "test haskanam";
     loadingScreen.showFileNames = false;
 
     // Load a model
